@@ -19,7 +19,7 @@ Python 3.9+ (apenas biblioteca padrão), conceitos de redes de computadores e l�
 
 ## Como executar localmente
 
-1. Clone este repositório: `git clone [link]`
+1. Clone este repositório: `git clone https://github.com/gilidia/dashboard-vulnerabilidades.git`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute a aplicação: `python main.py`
 
